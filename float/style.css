@@ -1,30 +1,60 @@
-#1 {
-    background-color: rgb(24, 119, 126);
-  }
- #2 {
-    background-color: rgb(126, 24, 112);
-  }
-  #3 {
-    background-color: rgb(126, 24, 49);
-  }
-  #4 {
-    background-color: rgb(151, 64, 86);
-  }
-  #5 {
-    background-color: rgb(7, 99, 86);
-  }
-  #6 {
-    background-color: rgb(20, 247, 216);
-  }
-  #7 {
-    background-color: rgb(172, 158, 37);
-  }
-  #8 {
-    background-color: rgb(66, 192, 34);
-  }
-  #9 {
-    background-color: rgb(212, 63, 63);
-  }
-  #10 {
-    background-color: rgb(126, 56, 29);
-  }
+#one {
+  background-color: rgb(24, 119, 126);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#two {
+background-color: rgb(92, 69, 128);
+height:50px;
+  width:50px;
+  float:left;
+} 
+#three {
+  background-color: rgb(126, 24, 49);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#four {
+  background-color: rgb(151, 64, 86);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#five {
+  background-color: rgb(7, 99, 86);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#six {
+  background-color: rgb(20, 247, 216);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#even {
+  background-color: rgb(172, 158, 37);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#eight {
+  background-color: rgb(66, 192, 34);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#nine {
+  background-color: rgb(212, 63, 63);
+  height:50px;
+  width:50px;
+  float:left;
+}
+#ten {
+  background-color: rgb(126, 56, 29);
+  height:50px;
+  width:50px;
+  float:left;
+}
